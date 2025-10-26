@@ -2,10 +2,10 @@
   <h1>MotivationQuote App</h1>
   <section>
     <h2>Project Overview</h2>
-    <p>This project is a full-stack web application, that delivers daily motivation quotes through beautiful, intutive interdface. </p>
-    <p>The goal is build a functionak web application that allows users to discover inspirational quotes, save favorites and share them across
+    <p>This project is a full-stack web application, that delivers daily motivation quotes through beautiful, intutive interface. </p>
+    <p>The goal is build a functional web application that allows users to discover inspirational quotes, save favorites and share them across
     social platforms.</p>
-    <p>Thiss project will cover modern frontend development, backend APIs, database and cloud deployment.</p>
+    <p>This project will cover modern frontend development, backend APIs, database and cloud deployment.</p>
   </section>
   <section>
     <h2>Project Goal</h2>
