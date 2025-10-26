@@ -170,7 +170,7 @@
 <section>
   <h2>Key Difference</h2>
   <ul>
-    <li>Add free exprience</li>
+    <li>Ad free exprience</li>
     <li>Share optimization</li>
     <li>Progressive enhancement</li>
   </ul>
